@@ -1,19 +1,19 @@
 #
 Projeto de Integração SQL Server e Excel: Análise de Vendas da AdventureWorks Cycles
-
-#Apresentação
+#
+Apresentação
 
 Este projeto tem como objetivo integrar o banco de dados AdventureWorks do SQL Server com o Excel para analisar as vendas online da empresa fictícia AdventureWorks Cycles. O foco principal é extrair informações pertinentes sobre as vendas realizadas em 2013 e apresentá-las de maneira clara e organizada no Excel.
-
-#Indicadores do Projeto
+#
+Indicadores do Projeto
 
 Os indicadores analisados neste projeto são:
 Total de vendas online por categoria de produto
 Receita total online por mês do pedido
 Receita e custo total online por país
 Total de vendas online por sexo do cliente
-
-#Tabelas Analisadas
+#
+Tabelas Analisadas
 
 As tabelas do banco de dados AdventureWorks utilizadas neste projeto são:
 FactInternetSales: Contém informações sobre as vendas online, como número do pedido, data, quantidade vendida, custo e receita.
@@ -22,8 +22,8 @@ DimSalesTerritory: Contém informações sobre os territórios de vendas, como p
 DimProductCategory: Contém informações sobre as categorias de produtos, como nome.
 DimProductSubcategory: Contém informações sobre as subcategorias de produtos.
 DimProduct: Contém informações sobre os produtos.
-
-#Colunas da View VENDAS
+#
+Colunas da View VENDAS
 
 Para facilitar a análise dos dados, foi criada a view VENDAS com as seguintes colunas:
 ```sql
