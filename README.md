@@ -62,31 +62,32 @@ Integração com o Excel
 
 Após a criação da view VENDAS, os dados foram importados para o Excel utilizando ferramentas como Microsoft Query ou Power Query. No Excel, foram criadas tabelas dinâmicas, gráficos e outros recursos para analisar os indicadores de vendas definidos no projeto.
 
-Dashboard Resultante
+Dashboard Resultante:
+
+![Projeto de Integração SQL Server e Excel Análise de Vendas da AdventureWorks Cycles](https://github.com/user-attachments/assets/987fdd7a-3c73-4b2e-9ec1-81e12cdfc865)
+
 
 Screenshots e Exemplos
-
-(https://github.com/user-attachments/assets/bc56281d-81aa-48b9-b855-eef60ccbfc5f)
-
-
 Abaixo estão algumas imagens do dashboard gerado:
 
 
 Receita Total versus Custo Total por País:
 
-(https://github.com/user-attachments/assets/1840f433-7e61-4dc4-88a5-2e65406785dd)
+![Receita Total](https://github.com/user-attachments/assets/f2ba5aaf-e3ea-4467-8030-55e353d4e8cb)
 
 Vendas por Mês:
 
-(https://github.com/user-attachments/assets/91664cb4-f91f-4172-b4c3-efc59428f721)
+![Vendas por Mes](https://github.com/user-attachments/assets/2c024289-a4c4-463c-9312-3c0ef3aeffcc)
 
 Vendas por Categoria:
 
-(https://github.com/user-attachments/assets/299c19ed-922a-4605-ab77-8169b64a9a50)
+
+![Vendas Categoria](https://github.com/user-attachments/assets/dd14363c-9fd5-4f3e-beb6-8de7d0420c7a)
 
 Vendas por Gênero:
 
-(https://github.com/user-attachments/assets/f09f04e0-35f0-470f-af0b-a678ee2e31e8)
+![Vendas por genero](https://github.com/user-attachments/assets/da2fe9c5-61e4-4908-8399-84892ac20adc)
+
 #
 Conclusão!
 
