@@ -66,7 +66,7 @@ Dashboard Resultante
 
 Screenshots e Exemplos
 
-![Projeto de Integração SQL Server e Excel Análise de Vendas da AdventureWorks Cycles](https://github.com/user-attachments/assets/bc56281d-81aa-48b9-b855-eef60ccbfc5f)
+(https://github.com/user-attachments/assets/bc56281d-81aa-48b9-b855-eef60ccbfc5f)
 
 
 Abaixo estão algumas imagens do dashboard gerado:
@@ -74,19 +74,19 @@ Abaixo estão algumas imagens do dashboard gerado:
 
 Receita Total versus Custo Total por País:
 
-![Receita Total](https://github.com/user-attachments/assets/1840f433-7e61-4dc4-88a5-2e65406785dd)
+(https://github.com/user-attachments/assets/1840f433-7e61-4dc4-88a5-2e65406785dd)
 
 Vendas por Mês:
 
-![Vendas por Mes](https://github.com/user-attachments/assets/91664cb4-f91f-4172-b4c3-efc59428f721)
+(https://github.com/user-attachments/assets/91664cb4-f91f-4172-b4c3-efc59428f721)
 
 Vendas por Categoria:
 
-![Vendas Categoria](https://github.com/user-attachments/assets/299c19ed-922a-4605-ab77-8169b64a9a50)
+(https://github.com/user-attachments/assets/299c19ed-922a-4605-ab77-8169b64a9a50)
 
 Vendas por Gênero:
 
-[Vendas por genero](https://github.com/user-attachments/assets/f09f04e0-35f0-470f-af0b-a678ee2e31e8)
+(https://github.com/user-attachments/assets/f09f04e0-35f0-470f-af0b-a678ee2e31e8)
 #
 Conclusão!
 
