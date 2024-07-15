@@ -64,11 +64,9 @@ Após a criação da view VENDAS, os dados foram importados para o Excel utiliza
 
 Dashboard Resultante
 
-![Dashboard de Vendas](dashboard.png)
-
 Screenshots e Exemplos
 
-Abaixo estão algumas imagens do dashboard gerado:
+Abaixo estão algumas imagens do dashboard gerado
 Receita Total versus Custo Total por País
 Vendas por Mês
 Vendas por Categoria
