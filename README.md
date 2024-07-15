@@ -6,6 +6,9 @@ Apresentação
 
 Este projeto tem como objetivo integrar o banco de dados AdventureWorks do SQL Server com o Excel para analisar as vendas online da empresa fictícia AdventureWorks Cycles. O foco principal é extrair informações pertinentes sobre as vendas realizadas em 2013 e apresentá-las de maneira clara e organizada no Excel.
 #
+Link para Download Banco de Dados:
+https://drive.google.com/file/d/1SW-luLwTOKgUmq9pjFoWQtCL64HHIFbO/view
+#
 Indicadores do Projeto
 
 Os indicadores analisados neste projeto são:
