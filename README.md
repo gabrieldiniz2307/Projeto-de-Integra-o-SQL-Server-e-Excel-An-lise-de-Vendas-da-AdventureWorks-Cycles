@@ -50,10 +50,10 @@ JOIN
     DimProductSubcategory AS ps ON p.ProductSubcategoryKey = ps.ProductSubcategoryKey
 JOIN
     DimProductCategory AS pc ON ps.ProductCategoryKey = pc.ProductCategoryKey;
+```
 
 
-
-
+#
 Integração com o Excel
 
 Após a criação da view VENDAS, os dados foram importados para o Excel utilizando ferramentas como Microsoft Query ou Power Query. No Excel, foram criadas tabelas dinâmicas, gráficos e outros recursos para analisar os indicadores de vendas definidos no projeto.
@@ -81,7 +81,7 @@ Vendas por Categoria
 Vendas por Gênero
 
 ![Vendas por Gênero](vendas_por_genero.png)
-
+#
 Conclusão
 
 Este trabalho demonstra como integrar dados do SQL Server com o Excel para a análise eficaz das vendas, proporcionando insights valiosos para a tomada de decisões. O uso da view VENDAS simplificou o processo de extração de dados e permitiu uma análise mais ágil e visual no Excel.
